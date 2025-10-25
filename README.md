@@ -1,11 +1,14 @@
-🌿 Projeto ONG VerdeViva — Atividade 02
+🌿 Projeto PORTAL LITERATURA — Atividade 02
 
 Disciplina: Experiência Prática II
 Tema: Aplicação de CSS3 — Design Responsivo e Acessível
-Autor: Emely
-Data: Outubro de 2025
 
-***LINK DA PAGINA*** : 
+
+---
+***Autor: Emely***
+***Data: Outubro de 2025***
+
+***LINK DA PAGINA*** : https://emelybarbosa813-ctrl.github.io/Atividade02outubro/
 
 🎯 Objetivo
 
